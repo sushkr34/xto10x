@@ -1,0 +1,12 @@
+.image {
+  width: 16rem;
+  height: 16rem;
+}
+.brand {
+  font-weight: bold;
+  font-size: 1rem;
+}
+.additionalInfo {
+  font-size: 0.8rem;
+  color: #888888;
+}
